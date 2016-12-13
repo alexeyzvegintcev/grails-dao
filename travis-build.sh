@@ -2,4 +2,4 @@
 
 echo "### Running tests"
 
-cd dao-app && ./grailsw test
+cd dao-app && ./gradlew test
